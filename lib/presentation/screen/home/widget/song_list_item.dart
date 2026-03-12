@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:music_player/core/constants/app_colors.dart';
-import 'package:music_player/domain/entities/song.dart';
+import 'package:xylophone_app/core/constants/app_colors.dart';
+import 'package:xylophone_app/domain/entities/song.dart';
 
 class SongListItem extends StatelessWidget {
   const SongListItem({

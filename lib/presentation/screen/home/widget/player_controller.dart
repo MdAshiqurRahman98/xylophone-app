@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:music_player/core/constants/app_colors.dart';
-import 'package:music_player/presentation/screen/home/provider/media_provider.dart';
+import 'package:xylophone_app/core/constants/app_colors.dart';
+import 'package:xylophone_app/presentation/screen/home/provider/media_provider.dart';
 import 'package:provider/provider.dart';
 
 class PlayerController extends StatelessWidget {

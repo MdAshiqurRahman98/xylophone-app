@@ -1,7 +1,7 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:music_player/data/model/song_model.dart';
-import 'package:music_player/domain/entities/song.dart';
+import 'package:xylophone_app/data/model/song_model.dart';
+import 'package:xylophone_app/domain/entities/song.dart';
 
 class MediaProvider extends ChangeNotifier {
   // The actual audio player instance from the audioplayers package

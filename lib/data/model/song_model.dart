@@ -1,4 +1,4 @@
-import 'package:music_player/domain/entities/song.dart';
+import 'package:xylophone_app/domain/entities/song.dart';
 
 class SongModel extends Song {
   const SongModel({
