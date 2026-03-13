@@ -1,6 +1,6 @@
 # Xylophone App
 
-
+<img width="300" height="607" alt="App Screenshot" src="https://raw.githubusercontent.com/MdAshiqurRahman98/xylophone-app/refs/heads/main/public/screenshots/xylophone_app.png" />
 
 
 ## Features
@@ -75,7 +75,7 @@ lib/
 ```
 
 ## Usage / How It Works
-1. **Launch**: Open the app to view the comprehensive media player interface.
+1. **Launch**: Open the app to view the comprehensive Xylophone interface.
 2. **Browse**: Scroll through the list of available audio tracks in the bottom section.
 3. **Play**: Tap any song to instantly load and start playback.
 4. **Control**: Use the top player section to pause/play, skip, or drag the progress slider to seek through the active track.
