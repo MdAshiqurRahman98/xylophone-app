@@ -18,6 +18,7 @@ class HomeScreen extends StatelessWidget {
           AppStrings.appName,
           style: TextStyle(color: AppColors.textPrimary),
         ),
+        centerTitle: true,
         backgroundColor: AppColors.surface,
       ),
       body: Column(
