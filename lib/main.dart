@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: [ChangeNotifierProvider(create: (context) => MediaProvider())],
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'Xylophone App',
         theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
         home: const HomeScreen(),
       ),
