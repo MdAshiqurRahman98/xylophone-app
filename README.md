@@ -33,7 +33,7 @@ This project follows **Clean Architecture** combined with a **Feature-based** fo
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MdAshiqurRahman98/xylophone_app.git
    ```
 2. Navigate to the project directory:
    ```bash
