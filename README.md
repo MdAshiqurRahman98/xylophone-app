@@ -9,6 +9,8 @@
 - **Seamless Playback**: Instant playback updates when selecting a song from the list, with state synchronized across the app.
 - **Audio Controls**: Play, pause, skip forward, or go back to the previous track effortlessly.
 
+---
+
 ## Architecture
 This project follows **Clean Architecture** combined with a **Feature-based** folder structure. It enforces a strict separation of concerns into distinct layers:
 - **Core**: Contains app-wide constants (colors, strings, etc.) and shared utilities.
@@ -16,12 +18,16 @@ This project follows **Clean Architecture** combined with a **Feature-based** fo
 - **Data**: Manages data models and data sources (e.g., hardcoded sample songs).
 - **Presentation**: Manages the UI layer, organized by screen/feature (e.g., `home`), including its widgets and state providers.
 
+---
+
 ## Tech Stack
 - **Flutter** & **Dart**
 - **audioplayers**: Core engine for audio playback.
 - **http**: For resolving external media URLs.
 - **provider**: For robust, reactive state management.
 - **webview_flutter**: For WebView widget.
+
+---
 
 ## Getting Started
 
@@ -56,6 +62,8 @@ flutter run
 flutter run -d chrome
 ```
 
+---
+
 ## Project Structure
 ```text
 lib/
@@ -73,6 +81,8 @@ lib/
 │           └── home_screen.dart   # Main screen UI
 └── main.dart                      # App entry point
 ```
+
+---
 
 ## Usage / How It Works
 1. **Launch**: Open the app to view the comprehensive Xylophone interface.
